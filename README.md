@@ -19,6 +19,8 @@ Criação e implemantação de um Ransomware para criptografar arquivos utilizan
 - decrypter.py: código que irá descriptografar um arquivo previamente criptografado.
 
 
+
+
 <div id='contatos' align="center">
   <p align="center">Made with 💜 by Humberto Luciano</p>
   <div id="contatos" align="center">
